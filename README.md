@@ -3,10 +3,7 @@
 👀 I’m interested in web development, data science, and exploring innovative technologies.
 🌱 I’m currently learning advanced web technologies, cloud computing, and machine learning.
 💞️ I’m looking to collaborate on open-source projects, hackathons, and tech communities.
-📫 How to reach me: Email me at [your-email@example.com] or connect with me on LinkedIn.
-😄 Pronouns: She/Her
-⚡ Fun fact: I love solving puzzles and exploring new tools to enhance productivity!
-🔭 Projects
+
 Here are some of the projects I've been working on:
 
 Chatbot for DOJ: Developed a Python-based chatbot to assist with Department of Justice inquiries.
